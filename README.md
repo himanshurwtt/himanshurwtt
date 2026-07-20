@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=whoami;himanshu+rawat;building+osint-bot+right+now..." alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=whoami;Himanshu+Rawat;currently+working+on+osint-bot..." alt="typing-svg" />
 
+</div>
 </div>
 
 <br>
@@ -60,10 +61,10 @@ async def whoami(ctx):
 
 ## stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=himanshurwtt&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshurwtt&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+<img height="165" src="https://github-readme-stats-sigma-pink.vercel.app/api?username=himanshurwtt&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+<img height="165" src="https://streak-stats.demolab.com/?user=himanshurwtt&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshurwtt&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" />
+<img src="https://github-readme-stats-sigma-pink.vercel.app/api/top-langs/?username=himanshurwtt&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" />
 
 </div>
 
