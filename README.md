@@ -1,13 +1,16 @@
 [![typing-svg](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Himanshu+Rawat;Python+Developer+%7C+Security+Automation;OSINT+Tooling+%7C+Recon+Engineering)](https://git.io/typing-svg)
 
+```bash
 himanshu@recon:~$ cat status.log
-──────────────────────────────────────────
- name      : Himanshu Rawat
- role      : Security Engineer (Junior) — Seeking
- stack     : Python, asyncio, httpx, pydantic, discord.py
- focus     : OSINT automation, recon libraries, detection engineering
- shipping  : reconlib (PyPI), osint-bot, subenum
-──────────────────────────────────────────
+┌────────────────────────────────────────────────────────────┐
+│  name      : Himanshu Rawat                                │
+│  status    : High School Graduate (Class of 2025)          │
+│  stack     : Python, asyncio, httpx, pydantic, discord.py  │
+│  focus     : OSINT automation, recon libraries, detection  │
+│              engineering                                   │
+│  shipping  : reconlib (PyPI), osint-bot, subenum           │
+└────────────────────────────────────────────────────────────┘
+```
 
 ### connect
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=00FF41)](https://instagram.com/himanshuurwt)
@@ -33,14 +36,15 @@ himanshu@recon:~$ cat status.log
 
 ---
 
-## 🎯 Seeking
+## 🎯 Currently
 
-**Junior Security Engineer / Security Automation Engineer**  
+**Building in public** · **Open to freelance / internship / mentorship**  
 Python • Async • API Integration • Detection Engineering • OSINT Tooling
 
-- Open to: Remote / Hybrid / Bangalore / Delhi NCR
-- Available: Immediately
-- Visa: Indian citizen (no sponsorship needed for India roles)
+- 🎓 Just finished 12th grade — now going deep on security tooling
+- 🛠️ Building a portfolio of production-quality Python libraries
+- 📚 Learning: Rust, eBPF, malware analysis, detection engineering
+- 💬 Open to: Freelance OSINT/automation gigs, internships, collabs
 
 ---
 
@@ -53,7 +57,7 @@ Python • Async • API Integration • Detection Engineering • OSINT Tooling
 
 ## 🏗️ Current Focus
 
-```text
+```bash
 himanshu@recon:~$ ./roadmap.sh
 [████████░░] 80%  reconlib v0.2.0 — breach checks, CT logs, threat intel
 [███████░░░] 70%  subenum CLI — plugin sources, JSON/CSV output, config file
@@ -71,5 +75,7 @@ himanshu@recon:~$ ./roadmap.sh
 
 ---
 
+```bash
 himanshu@recon:~$ exit
 session closed — building security tooling since 2023.
+```
