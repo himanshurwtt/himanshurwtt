@@ -1,80 +1,75 @@
-<div align="center">
+[![typing-svg](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Himanshu+Rawat;Python+Developer+%7C+Security+Automation;OSINT+Tooling+%7C+Recon+Engineering)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=whoami;Himanshu+Rawat;currently+working+on+osint-bot..." alt="typing-svg" />
-
-</div>
-</div>
-
-<br>
-
-```bash
-himanshurwtt@recon:~$ cat status.log
+himanshu@recon:~$ cat status.log
 ──────────────────────────────────────────
  name      : Himanshu Rawat
- process   : discord.py, aiohttp, dnspython
- focus     : OSINT automation, recon tooling
- shipping  : osint-bot — 20+ commands, live terminal UI
- noise     : minimal
+ role      : Security Engineer (Junior) — Seeking
+ stack     : Python, asyncio, httpx, pydantic, discord.py
+ focus     : OSINT automation, recon libraries, detection engineering
+ shipping  : reconlib (PyPI), osint-bot, subenum
 ──────────────────────────────────────────
-```
-
-<br>
-
-<div align="center">
 
 ### connect
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=00FF41)](https://instagram.com/himanshuurwt)
+[![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=discord&logoColor=00FF41)](https://discord.gg/geek7)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=netlify&logoColor=00FF41)](https://himanshurwt.netlify.app/)
+[![Email](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=mail.ru&logoColor=00FF41)](mailto:himanshurwt@example.com)
 
-<a href="https://instagram.com/himanshuurwt"><img src="https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=00FF41" /></a>
-<img src="https://img.shields.io/badge/Discord-geek7-000000?style=flat-square&logo=discord&logoColor=00FF41" />
+### stack
+![Python](https://skillicons.dev/icons?i=python,discord,linux,bash,git,vscode,cpp,postgres&theme=dark)
 
-</div>
+---
 
-<br>
+## 🔧 What I Build
 
-## stack
+| Tool | Type | Stack | Status |
+|------|------|-------|--------|
+| [`reconlib`](https://github.com/himanshurwtt/reconlib) | **OSINT library** (PyPI) | Python, httpx, pydantic, dnspython | ![PyPI](https://img.shields.io/pypi/v/reconlib?label=&color=00FF41) ![Tests](https://github.com/himanshurwtt/reconlib/actions/workflows/ci.yml/badge.svg) |
+| [`osint-bot`](https://github.com/himanshurwtt/osint-bot) | Discord recon bot | discord.py, asyncio, reconlib | 20+ commands · terminal UI |
+| [`subenum`](https://github.com/himanshurwtt/subenum) | Subdomain enum CLI | Typer, dnspython, reconlib | Active development |
+| [`root`](https://github.com/himanshurwtt/root) | Server management bot | discord.py, aiohttp | Production |
 
-<div align="center">
+> **Architecture principle:** Core logic lives in `reconlib` (tested, typed, published). Bots/CLIs are thin consumers.
 
-<img src="https://skillicons.dev/icons?i=python,discord,linux,bash,git,vscode,cpp,postgres&theme=dark" />
+---
 
-</div>
+## 🎯 Seeking
 
-<br>
+**Junior Security Engineer / Security Automation Engineer**  
+Python • Async • API Integration • Detection Engineering • OSINT Tooling
 
-## what i'm building
+- Open to: Remote / Hybrid / Bangalore / Delhi NCR
+- Available: Immediately
+- Visa: Indian citizen (no sponsorship needed for India roles)
 
-```python
-@bot.command()
-async def whoami(ctx):
-    """every command renders as a live terminal session."""
-    return await ctx.send(ansi_block(
-        prompt="himanshu@recon:~$",
-        output="20+ commands · domain intel · breach checks · threat intel · zero drama"
-    ))
+---
+
+## 📊 GitHub Stats
+
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshurwtt&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshurwtt&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9)
+
+---
+
+## 🏗️ Current Focus
+
+```text
+himanshu@recon:~$ ./roadmap.sh
+[████████░░] 80%  reconlib v0.2.0 — breach checks, CT logs, threat intel
+[███████░░░] 70%  subenum CLI — plugin sources, JSON/CSV output, config file
+[█████░░░░░] 50%  GitHub Actions CI template — reusable workflow for all repos
+[███░░░░░░░] 30%  Detection engineering portfolio — Sigma rules + log parsers
 ```
 
-**[osint-bot](https://github.com/himanshurwtt/osint-bot)** — a Discord bot for OSINT recon, styled entirely as a live terminal session using Discord's `ansi` code blocks. Domain/IP intel, WHOIS, DNS, certificate transparency search, subdomain discovery, username scanning across 12 platforms, breach checks, threat intel (AbuseIPDB, VirusTotal, Shodan), Wayback Machine lookups, and BTC/ETH wallet checks — 20+ commands, all sourced from public data only.
+---
 
-<br>
+## 🤝 Let's Connect
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshurwt)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/himanshurwt)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:himanshurwt@example.com)
 
-## stats
+---
 
-<img height="165" src="https://github-readme-stats-sigma-pink.vercel.app/api?username=himanshurwtt&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
-<img height="165" src="https://streak-stats.demolab.com/?user=himanshurwtt&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-
-<img src="https://github-readme-stats-sigma-pink.vercel.app/api/top-langs/?username=himanshurwtt&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-```bash
 himanshu@recon:~$ exit
-session closed — 20+ commands still running in the background.
-```
-
-</div>
+session closed — building security tooling since 2023.
