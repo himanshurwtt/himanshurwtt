@@ -4,7 +4,7 @@
 himanshu@recon:~$ cat status.log
 ┌────────────────────────────────────────────────────────────┐
 │  name      : Himanshu Rawat                                │
-│  status    : High School Graduate (Class of 2025)          │
+│  status    : Security Tooling · Python · OSINT             │
 │  stack     : Python, asyncio, httpx, pydantic, discord.py  │
 │  focus     : OSINT automation, recon libraries, detection  │
 │              engineering                                   │
@@ -41,7 +41,7 @@ himanshu@recon:~$ cat status.log
 **Building in public** · **Open to freelance / internship / mentorship**  
 Python • Async • API Integration • Detection Engineering • OSINT Tooling
 
-- 🎓 Just finished 12th grade — now going deep on security tooling
+- 🎓 Going deep on security tooling
 - 🛠️ Building a portfolio of production-quality Python libraries
 - 📚 Learning: Rust, eBPF, malware analysis, detection engineering
 - 💬 Open to: Freelance OSINT/automation gigs, internships, collabs
