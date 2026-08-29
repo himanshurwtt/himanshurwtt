@@ -14,9 +14,9 @@ himanshu@recon:~$ cat status.log
 
 ### connect
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=00FF41)](https://instagram.com/himanshuurwt)
-[![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=discord&logoColor=00FF41)](https://discord.gg/geek7)
+[![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=discord&logoColor=00FF41)](https://discord.com/users/1074363415591653387)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=netlify&logoColor=00FF41)](https://himanshurwt.netlify.app/)
-[![Email](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=mail.ru&logoColor=00FF41)](mailto:himanshurwt@example.com)
+[![Email](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=mail.ru&logoColor=00FF41)](mailto:geek3301@proton.me)
 
 ### stack
 ![Python](https://skillicons.dev/icons?i=python,discord,linux,bash,git,vscode,cpp,postgres&theme=dark)
@@ -69,9 +69,9 @@ himanshu@recon:~$ ./roadmap.sh
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshurwt)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/himanshurwt)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:himanshurwt@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-rawat-7b78bb403/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:geek3301@proton.me)
 
 ---
 
