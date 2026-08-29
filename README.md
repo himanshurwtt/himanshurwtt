@@ -29,7 +29,7 @@ himanshu@recon:~$ cat status.log
 |------|------|-------|--------|
 | [`reconlib`](https://github.com/himanshurwtt/reconlib) | **OSINT library** (PyPI) | Python, httpx, pydantic, dnspython | ![PyPI](https://img.shields.io/pypi/v/reconlib?label=&color=00FF41) ![Tests](https://github.com/himanshurwtt/reconlib/actions/workflows/ci.yml/badge.svg) |
 | [`osint-bot`](https://github.com/himanshurwtt/osint-bot) | Discord recon bot | discord.py, asyncio, reconlib | 20+ commands · terminal UI |
-| [`subenum`](https://github.com/himanshurwtt/subenum) | Subdomain enum CLI | Typer, dnspython, reconlib | Active development |
+| [`SubDomain`](https://github.com/himanshurwtt/SubDomain) | Subdomain enum CLI | Typer, dnspython, reconlib | Active development |
 | [`root`](https://github.com/himanshurwtt/root) | Server management bot | discord.py, aiohttp | Production |
 
 > **Architecture principle:** Core logic lives in `reconlib` (tested, typed, published). Bots/CLIs are thin consumers.
