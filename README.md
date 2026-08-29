@@ -50,9 +50,8 @@ Python • Async • API Integration • Detection Engineering • OSINT Tooling
 
 ## 📊 GitHub Stats
 
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshurwtt&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshurwtt&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9)
-
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshurwtt&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himanshurwtt&theme=github_dark&layout=compact)
 ---
 
 ## 🏗️ Current Focus
